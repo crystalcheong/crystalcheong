@@ -33,6 +33,8 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 > HTML5, CSS3, JavaScript, jQuery, React, Bootstrap, TailwindCSS, GatsbyJS, NextJS
 > ##### 💾 Databases:
 > MongoDB, Firebase
+> > ##### ⚙️ DevOps:
+> Github, Git, Vercel
 > ##### 🗄️ Not as often:
 > PHP, MySQL, ASP.NET, MSSQL
 
