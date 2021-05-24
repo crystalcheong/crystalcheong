@@ -41,4 +41,3 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 #### 📫 How to reach me:
 
 > 💻 Website: [crystalcheong.com](https://crystalcheong.com/)<br/>
-> 📧 Email: [crystalcheong@outlook.sg](mailto:crystalcheong@outlook.sg)
