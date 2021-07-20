@@ -26,7 +26,7 @@ I'm a Web Developer and occasional UI/UX Designer who loves making high-quality 
 #### 🛠️ Tech stack:
 
 > ##### 🔥 Currently obsessed with:
-> NextJS, TailwindCSS, Flutter
+> VueJS, TailwindCSS, Flutter
 > ##### 📱 Mobile Development:
 > Flutter, Java, Kotlin, Android SDK, Unity3D
 > ##### 🌐 Web Development:
