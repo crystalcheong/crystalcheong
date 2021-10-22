@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 > /'kri.stal chi.ong/
 
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm still a student and preparing for college.
-
 #### 🛠️ Tech stack:
 
 > ##### 🔥 Currently obsessed with:
