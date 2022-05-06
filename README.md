@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 #### 📫 How to reach me:
 
 > 💻 Website: [crystalcheong.com](https://crystalcheong.com/)<br/>
+> 📧 Email: [dev@crystalcheong.com](mailto:dev@crystalcheong.com)<br/>
