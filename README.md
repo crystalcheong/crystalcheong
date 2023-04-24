@@ -1,41 +1,18 @@
-<!--
-### Hi there 👋
--->
+<a href="https://crystalcheong.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65748007/233925403-9a29c8ad-43ae-4c7a-a0b9-3ddf8a3c7ccb.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65748007/233924665-8edba44a-584f-4869-be7d-8f039fa0cf9f.svg" />
+    <img alt="Crystal Cheong | Virtually solving real world problems" src="https://user-images.githubusercontent.com/65748007/233924665-8edba44a-584f-4869-be7d-8f039fa0cf9f.svg" width="100%" />
+  </picture>
+</a>
 
-<!--
-**crystalcheong/crystalcheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<header>
+  <div align="center">
+    <a href="https://crystalcheong.com/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=crystalcheong.com&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    </a>
+  </div>
+</header>
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Crystal Cheong
-
-> /'kri.stal chi.ong/
-
-#### 🛠️ Tech stack:
-
-> ##### 🔥 Currently obsessed with:
-> VueJS, TailwindCSS, Flutter
-> ##### 📱 Mobile Development:
-> Flutter, Java, Kotlin, Android SDK, Unity3D
-> ##### 🌐 Web Development:
-> HTML5, CSS3, JavaScript, jQuery, React, Bootstrap, TailwindCSS, GatsbyJS, NextJS
-> ##### 💾 Databases:
-> MongoDB, Firebase
-> ##### ⚙️ DevOps:
-> Github, Git, Vercel
-> ##### 🗄️ Not as often:
-> PHP, MySQL, ASP.NET, MSSQL
-
-#### 📫 How to reach me:
-
-> 💻 Website: [crystalcheong.com](https://crystalcheong.com/)<br/>
